@@ -1,3 +1,5 @@
+for any support contact me : karim.salah.kotb@gmail.com
+
 # hibernate
 What is Hibernate:
 Hibernate is one of the most extensively used ORM (Object/Relational mapping) tool for Java apps
